@@ -1,0 +1,9 @@
+8
+Adam 2004 999999
+Idris 2004 1
+Marat 2004 999999
+Ashurbeg 1965 999999
+Dunja 2000 13131
+Sharvili 1100 0
+Racab 1900 55555
+Iera 2004 424242
